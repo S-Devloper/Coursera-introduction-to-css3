@@ -1,0 +1,27 @@
+aside{
+    display:none;
+}
+header {
+	background-color: silver;
+}
+h1{
+    color: white;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: "Trebuchet MS", Helvetica, sans-serif; 
+	font-size: 40px;
+}
+a{
+    color: black;
+    background-color: lightgray;
+    font-weight: bold;
+}
+h2{
+    color:blue;
+	text-transform: uppercase;
+	font-family: "Trebuchet MS", Helvetica, sans-serif; 
+	background-color: darkgray;
+}
+section{
+    background-color: darkgray;
+}
