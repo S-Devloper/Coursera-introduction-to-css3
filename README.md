@@ -1,2 +1,2 @@
 # Coursera-introduction-to-css3
-# assingment 1 asnwer in css folder hw1.css
+# Assingment 1 answer in css folder hw1.css
