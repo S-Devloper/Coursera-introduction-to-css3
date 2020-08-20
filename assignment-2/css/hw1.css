@@ -2,33 +2,8 @@ header {
 	padding:1%;
 	background-image: url("../images/flywheel.jpg");
 	background-repeat: no-repeat;
-		background-size: 100%;
+	background-size: 100%;
 }
-h1{
-    color: white;
-	text-align: center;
-	text-transform: uppercase;
-	font-family: "Trebuchet MS", Helvetica, sans-serif; 
-	font-size: 40px;
-}
-nav a{
-	display: inline-block;
-	width:18%;
-	border-radius: 5px;
-	margin:3%;
-	padding: 10px 0px 10px 0px;
-	text-decoration: none;
-	text-align: center;
-	background-color: honeydew;
-}
-nav a.active{
-	background-color: grey;
-}
-a{
-    color:blue;
-
-	font-weight: bold;
-
 .left img{
 	max-width:100%;
 	display :block;
@@ -44,19 +19,44 @@ aside{
 	background-color:rgb(56, 100, 56);
 }
 .right{
-    display: block;
+    	display: block;
 	width: 78%;
 	float:right;
-
 }
 
+h1{
+    	color: white;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: "Trebuchet MS", Helvetica, sans-serif; 
+	font-size: 40px;
 }
-h2{
-    color:blue;
+nav a{
+	display: inline-block;
+	width:18%;
+	border-radius: 5px;
+	margin:3%;
+	padding: 10px 0px 10px 0px;
+	text-decoration: none;
+	text-align: center;
+	background-color: honeydew;
+}
+nav a.active
+{
+	background-color: grey;
+}
+a{
+    	color:blue;
+	font-weight: bold;
+}
+h2
+{
+    	color:blue;
 	text-transform: uppercase;
 	font-family: "Trebuchet MS", Helvetica, sans-serif; 
 	
 }
-section{
+section
+{
     padding-left: 2%;
 }
