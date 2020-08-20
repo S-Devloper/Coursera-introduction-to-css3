@@ -1,3 +1,9 @@
+aside{
+	padding: 2.5% ;
+	width:15%;
+	height: 100%;
+	display :inline-block;
+	background-color:rgb(56, 100, 56);
 header {
 	padding:1%;
 	background-image: url("../images/flywheel.jpg");
@@ -11,12 +17,7 @@ header {
 	border:2px solid black;
 	
 }
-aside{
-	padding: 2.5% ;
-	width:15%;
-	height: 100%;
-	display :inline-block;
-	background-color:rgb(56, 100, 56);
+
 }
 .right{
     	display: block;
