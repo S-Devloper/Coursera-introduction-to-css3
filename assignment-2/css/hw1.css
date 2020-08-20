@@ -20,8 +20,7 @@ aside{
 }
 header {
 	padding:1%;
-	background-image:url("http://intro-webdesign.com/CSS/assignment-2/images/flywheel.jpg");
-}
+	background-image: url("../images/flywheel.jpg");
 h1{
     color: white;
 	text-align: center;
