@@ -20,7 +20,7 @@ aside{
 }
 header {
 	padding:1%;
-	background-image:url('/images/flywheel.jpg');
+	background-image:url('../images/flywheel.jpg');
 }
 h1{
     color: white;
