@@ -1,15 +1,3 @@
-aside{
-	padding: 2.5% ;
-	width:15%;
-	height: 100%;
-	display :inline-block;
-	background-color:rgb(56, 100, 56);
-header {
-	padding:1%;
-	background-image: url("../images/flywheel.jpg");
-	background-repeat: no-repeat;
-	background-size: 100%;
-}
 .left img{
 	max-width:100%;
 	display :block;
@@ -17,16 +5,27 @@ header {
 	border:2px solid black;
 	
 }
-
+aside{
+	padding: 2.5% ;
+	width:15%;
+	height: 100%;
+	display :inline-block;
+	background-color:rgb(56, 100, 56);
 }
 .right{
-    	display: block;
+    display: block;
 	width: 78%;
 	float:right;
-}
 
+}
+header {
+	padding:1%;
+	background-image: url("../images/flywheel.jpg");
+	background-repeat: no-repeat;
+		background-size: 100%;
+}
 h1{
-    	color: white;
+    color: white;
 	text-align: center;
 	text-transform: uppercase;
 	font-family: "Trebuchet MS", Helvetica, sans-serif; 
@@ -42,22 +41,20 @@ nav a{
 	text-align: center;
 	background-color: honeydew;
 }
-nav a.active
-{
+nav a.active{
 	background-color: grey;
 }
 a{
-    	color:blue;
+    color:blue;
+
 	font-weight: bold;
 }
-h2
-{
-    	color:blue;
+h2{
+    color:blue;
 	text-transform: uppercase;
 	font-family: "Trebuchet MS", Helvetica, sans-serif; 
 	
 }
-section
-{
+section{
     padding-left: 2%;
 }
